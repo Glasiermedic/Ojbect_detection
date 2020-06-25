@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\LinkedInLearning\\Ex_Files_Python_GUI_Dev_Tkinter"
+		},
+		{
+			"path": "..\\..\\python bible course"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
